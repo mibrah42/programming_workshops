@@ -26,7 +26,7 @@
 # 4. (optional) write a function called reverseText 
 # that takes in the parameter text and returns 
 # the reversed version of it
-# hint: search for slice indexing in google
+# hint: search for slice indexing on google
 
 
 
