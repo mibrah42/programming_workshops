@@ -8,7 +8,7 @@
 # 1. write a function called getAverage that takes a parameter grades which
 # is an array of test scores from a scale of 0.0 - 100.0
 # the function should return the average of these numbers
-
+    
 
 # 2. write a function called fizzBuzz that takes the parameter number and returns an array
 # loops from the range 1 (inclusive) to number (exclusive)
@@ -27,7 +27,3 @@
 # that takes in the parameter text and returns 
 # the reversed version of it
 # hint: search for slice indexing on google
-
-
-
-
