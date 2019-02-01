@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercises
 
 # 1. Create a Student class with the following:
 # - Has the attributes:
