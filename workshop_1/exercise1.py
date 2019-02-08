@@ -18,6 +18,26 @@
 # implement __repr__ and __str__ to output a string representation of your objects
 # print(str(yourStudentObject)) should display "{fname} {lname} - {studentID} - {program}"
 # print(repr(yourStudentObject)) should display "Student('{fname}', '{lname}', '{age}', '{studentID}', '{program}')"
+class Person:
+    def __init__(self, fname, lname, age):
+        self.fname = fname
+        self.lname = lname
+        self.age = age
+
+class Student(Person):
+    def __init__(self,fname, lname, studentID, age, program):
+        super().__init__(fname, lname, age)
+        self.studentID = studentID 
+        self.program = program 
+      
+    def fullname(self):
+        return f"{self.fname} {self.lname}"
+    
+    def __repr__(self):
+        return f"{self.fname} {self.lname} - {self.studentID} - {self.program}"
+
+mohamed = Student("mohamed", "ibrahim", "100626201", 22, "software engineering")
+print(mohamed)
 
 
 # 3. Create a Tesla class with the following:
@@ -46,3 +66,40 @@
 #           - prints "start engine first!"
 #       __str__():
 #           - return the details of the car in a string "{model}, {year}, {color}"
+class Tesla:
+    def __init__(self, model, color, year):
+        self.model = model
+        self.color = color
+        self.year = year
+        self.isRunning = False
+    
+    def start(self):
+        if not self.isRunning:
+            self.isRunning = True
+            print("starting engine...")
+        else: 
+            print("engine is already running!")
+    
+    def stop(self):
+        if self.isRunning:
+            isRunning = False 
+            print("stopping engine")
+        else:
+            print("engine is already turned off")
+    
+    def drive(self):
+        if self.isRunning:
+            print("driving into the sunset")
+        else:
+            print("start engine first!")
+    
+    def __str__(self):
+        return f"{self.model}, {self.year}, {self.color}"
+
+roadster = Tesla("roadster", "blue", "2019")
+print("isRunning:", roadster.isRunning) # false
+roadster.drive()
+roadster.start()
+print("isRunning:", roadster.isRunning) # true
+roadster.drive()
+print(roadster)

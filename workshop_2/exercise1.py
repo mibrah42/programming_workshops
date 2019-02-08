@@ -1,4 +1,3 @@
-
 class Stack:
     # TASK:
     #   This stack data structure has the push and pop methods
