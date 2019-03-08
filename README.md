@@ -5,6 +5,7 @@
 [Workshop 2](https://github.com/mibrah42/programming_workshops/tree/master/workshop_2) <br>
 [Workshop 3](https://docs.google.com/presentation/d/18PWs4TfERipIQpJgOooCkQyZ5mGqISnk5WlDpAkoyRU/edit?usp=sharing) <br>
 [Workshop 4](https://docs.google.com/presentation/d/1fVVDz7uPT7zxjR6RZHdjggXVBSsopY0C5eBFsOAnWFA/edit?usp=sharing) <br>
+[Workshop 5](https://docs.google.com/presentation/d/1pruTE0zlBebdUkv1T1v4Yzj6SFFnERhRKRkdgGJxDvo/edit?usp=sharing) <br>
 
 ## Links
 [Facebook](https://www.facebook.com/groups/uoit.engineering.programming.workshops) <br>
