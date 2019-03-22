@@ -7,6 +7,7 @@
 [Workshop 4](https://docs.google.com/presentation/d/1fVVDz7uPT7zxjR6RZHdjggXVBSsopY0C5eBFsOAnWFA/edit?usp=sharing) <br>
 [Workshop 5](https://docs.google.com/presentation/d/1pruTE0zlBebdUkv1T1v4Yzj6SFFnERhRKRkdgGJxDvo/edit?usp=sharing) <br>
 [Workshop 6](https://docs.google.com/presentation/d/1n2D-Q31MxS6zkGRNVdBPcLkjlMaEKJ9W32cJYtcQnAE/edit?usp=sharing) <br>
+[Workshop 7](https://docs.google.com/presentation/d/1shMwOxSTPk2MqBr-rT4c1CEXRuLbkrED2g8-IBQMA1o/edit?usp=sharing) <br>
 
 
 [socket files](https://drive.google.com/file/d/1Z-YrPwdvCPgcWYicRZnVGOfhn_l3ynPi/view?usp=sharing)
